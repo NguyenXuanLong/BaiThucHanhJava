@@ -1,5 +1,6 @@
-
+import java.util.ArrayList;
 public class NhanVien {
+    
     
     private String manv;
     private String tennv;
@@ -30,6 +31,7 @@ public class NhanVien {
     public String getdc() {
         return diachi;
     }
-
+    
+ 
         
 }
