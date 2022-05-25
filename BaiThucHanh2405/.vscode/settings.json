@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "COLLECTIONS/src/com.na.collections.set",
+        "COLLECTIONS/src/com.na.collections.map",
+        "COLLECTIONS/src/com.na.collections.list",
+        "COLLECTIONS/src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
